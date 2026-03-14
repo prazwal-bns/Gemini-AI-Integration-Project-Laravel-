@@ -15,6 +15,9 @@
                     <flux:sidebar.item icon="home" :href="route('dashboard')" :current="request()->routeIs('dashboard')" wire:navigate>
                         {{ __('Dashboard') }}
                     </flux:sidebar.item>
+                    <flux:sidebar.item icon="chat-bubble-left-right" :href="route('gemini-ai-chat')" :current="request()->routeIs('gemini-ai-chat')" wire:navigate>
+                        {{ __('Gemini AI Chat') }}
+                    </flux:sidebar.item>
                 </flux:sidebar.group>
             </flux:sidebar.nav>
 
