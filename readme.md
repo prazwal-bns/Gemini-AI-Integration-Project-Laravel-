@@ -244,4 +244,4 @@ The chat route is inside the authenticated and verified middleware group, so use
 
 ## License
 
-This project is open for personal learning and development use unless you define a separate license.
+This project is open for personal learning and development.
