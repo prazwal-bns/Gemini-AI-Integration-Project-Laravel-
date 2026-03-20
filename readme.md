@@ -240,6 +240,8 @@ The chat route is inside the authenticated and verified middleware group, so use
 - support multiple Gemini models
 - add markdown rendering for AI responses
 - add per-user conversation history
+- add rate limiting and prompt length controls
+
 
 ## License
 
