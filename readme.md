@@ -16,7 +16,7 @@ A Laravel web application with Livewire that integrates with the Gemini API so u
 - Laravel
 - Livewire
 - Tailwind CSS
-- Gemini Generative Language API
+- Gemini AI
 
 ## Requirements
 
