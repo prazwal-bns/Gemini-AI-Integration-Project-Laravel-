@@ -1,6 +1,6 @@
 # Gemini AI Integration
 
-A Laravel application with Livewire that integrates with the Gemini API so users can send prompts and receive AI-generated responses in a simple chat interface.
+A Laravel web application with Livewire that integrates with the Gemini API so users can send prompts and receive AI-generated responses in a simple chat interface.
 
 ## Features
 
